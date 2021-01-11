@@ -1,0 +1,4 @@
+baseURL = "https://justconcertsheetmusicz.vercel.app"
+languageCode = "en-us"
+title = "Best Concert Sheet Music"
+theme = "hugo-theme-minos"
